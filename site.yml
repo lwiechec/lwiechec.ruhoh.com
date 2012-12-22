@@ -1,11 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : ŁW's thoughts on software
+tagline:
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Łukasz Wiecheć
+  email : coquelicot408@gmail.com
+  github : lwiechec
+  twitter : lwiechec
 
 navigation :
   - archive.html
@@ -13,4 +12,4 @@ navigation :
   - categories.html
   - pages.html
   - about.md
-  
+
