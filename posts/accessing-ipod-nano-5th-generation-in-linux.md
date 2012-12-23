@@ -72,3 +72,6 @@ to use 'libgpod' and create a file system that will enable accessing the ipod in
 
 Others for more fancy features of ipod (contacts, photos etc) could come later.
 
+[FUSE project](http://fuse.sourceforge.net/) provides a relatively-easy way to write such filesystem.
+It even has language bindings to other than C but as 'libgpod' doesn't, the whole thing would have
+to be written in C. Last time I did it, uh-oh. 20 years ago. Maybe it's time to refresh the memory!
