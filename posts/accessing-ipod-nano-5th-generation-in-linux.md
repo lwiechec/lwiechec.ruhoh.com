@@ -5,7 +5,7 @@ description:
 categories:
 tags: [linux, ipod]
 
-type: draft
+type:
 ---
 Here we go again
 ----------------
@@ -42,7 +42,8 @@ and 'libpname-dev'). After fixing this, I managed to get the 'libgpod' library t
 the ipod (for now, compilation of the GUI utility 'gtkpod' wasn't attempted as it requires GTK+ 3.0
 and I don't have it easily available on my outdated Ubuntu destribution).
 
-The documentation to the library is avaliable on [its web page](http://www.gtkpod.org/libgpod/docs/).
+The documentation to the library is avaliable on [its web page](http://www.gtkpod.org/libgpod/docs
+/).
 
 The vision
 ----------
@@ -75,3 +76,9 @@ Others for more fancy features of ipod (contacts, photos etc) could come later.
 [FUSE project](http://fuse.sourceforge.net/) provides a relatively-easy way to write such filesystem.
 It even has language bindings to other than C but as 'libgpod' doesn't, the whole thing would have
 to be written in C. Last time I did it, uh-oh. 20 years ago. Maybe it's time to refresh the memory!
+
+Latest update
+-------------
+
+The code is now [published on Github](https://github.com/lwiechec/fuseipod). It's of course not ready for
+public consumption yet :).
