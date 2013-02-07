@@ -1,5 +1,5 @@
 ---
-title: Clojure - first steps
+title: Clojure
 date: '2013-02-07'
 description:
 categories:
