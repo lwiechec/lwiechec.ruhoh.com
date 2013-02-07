@@ -3,7 +3,7 @@ title: Clojure
 date: '2013-02-07'
 description:
 categories:
-tags: [coding clojure]
+tags: [coding,clojure]
 
 type: draft
 ---
