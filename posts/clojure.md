@@ -5,7 +5,6 @@ description:
 categories:
 tags: [coding,clojure]
 
-type: draft
 ---
 
 Recently I decided to clean up my '.emacs' file (after upgrade to Emacs 24 I decided
