@@ -35,4 +35,14 @@ it can also export the build to Maven which is a good thing (because I am used
 to this build tool).
 
 There are also other goodies like special modes for Emacs that can talk to
-REPL server inside 'lein' tool. I will try to explore it and write more.
+REPL server inside 'lein' tool. These are quite handy because - first of all they
+implement the 'do not leave your favourite editor' principle so dear to all Emacs users
+(haha) and second - offer very cool interface, with completion, syntax highlighting
+etc. The 'clojure-mode' offers even also an easy way to edit and run tests in Clojure
+from the buffer; the tests need to use
+[clojure.test API](http://richhickey.github.com/clojure/clojure.test-api.html) and
+the faling tests are highlighted in the buffer (using overlays). This is quite cool
+thing, 'malabar-mode' should also have something like that :).
+
+Having installed all that 'goodies' I am ready to start the language - having some
+background in Emacs Lisp should help.
